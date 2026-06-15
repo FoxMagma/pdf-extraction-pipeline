@@ -8,18 +8,7 @@
 - Preserves rows, columns, and data exactly as in the original
 - Exports to Excel (`.xlsx`) or CSV (`.csv`)
 - Extracts graphs/charts as PNG images
-- Handles large documents (100+ pages, 100+ tables)
-
-## Sample Outputs
-
-### Financial Table Extraction
-![Financial table](screenshots/table_financial.png)
-
-### Apple Financial Data
-![Apple data](screenshots/table_apple.png)
-
-### Large Academic Table (100+ rows)
-![Academic table](screenshots/table_academic.png)
+- Handles large documents (100+ pages, 100+ tables) 
 
 ## How It Works
 
